@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RitikKumar-28/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RitikKumar-28/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RitikKumar-28/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/RitikKumar-28/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RitikKumar-28/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/RitikKumar-28/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/RitikKumar-28/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/RitikKumar-28/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
