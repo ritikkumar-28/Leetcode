@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RitikKumar-28/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/RitikKumar-28/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RitikKumar-28/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RitikKumar-28/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/RitikKumar-28/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/RitikKumar-28/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RitikKumar-28/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RitikKumar-28/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RitikKumar-28/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/RitikKumar-28/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RitikKumar-28/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RitikKumar-28/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/RitikKumar-28/Leetcode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RitikKumar-28/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/RitikKumar-28/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/RitikKumar-28/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RitikKumar-28/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -138,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/RitikKumar-28/Leetcode/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
