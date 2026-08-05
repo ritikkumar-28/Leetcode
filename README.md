@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RitikKumar-28/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/RitikKumar-28/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RitikKumar-28/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/RitikKumar-28/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,8 +162,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0268-missing-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
