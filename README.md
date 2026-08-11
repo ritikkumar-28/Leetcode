@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RitikKumar-28/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RitikKumar-28/Leetcode/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0680-valid-palindrome-ii](https://github.com/RitikKumar-28/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RitikKumar-28/Leetcode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0680-valid-palindrome-ii](https://github.com/RitikKumar-28/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RitikKumar-28/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RitikKumar-28/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RitikKumar-28/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RitikKumar-28/Leetcode/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/RitikKumar-28/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
 | ------- |
