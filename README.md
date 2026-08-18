@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RitikKumar-28/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/RitikKumar-28/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/RitikKumar-28/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RitikKumar-28/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RitikKumar-28/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/RitikKumar-28/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RitikKumar-28/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RitikKumar-28/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RitikKumar-28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/RitikKumar-28/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/RitikKumar-28/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RitikKumar-28/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RitikKumar-28/Leetcode/tree/master/0344-reverse-string) |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RitikKumar-28/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/RitikKumar-28/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
