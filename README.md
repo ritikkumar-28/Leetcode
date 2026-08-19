@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RitikKumar-28/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/RitikKumar-28/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/RitikKumar-28/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RitikKumar-28/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/RitikKumar-28/Leetcode/tree/master/0724-find-pivot-index) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RitikKumar-28/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/RitikKumar-28/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/RitikKumar-28/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RitikKumar-28/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RitikKumar-28/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/RitikKumar-28/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/RitikKumar-28/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/RitikKumar-28/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/RitikKumar-28/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RitikKumar-28/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/RitikKumar-28/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RitikKumar-28/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/RitikKumar-28/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RitikKumar-28/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -213,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RitikKumar-28/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/RitikKumar-28/Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
