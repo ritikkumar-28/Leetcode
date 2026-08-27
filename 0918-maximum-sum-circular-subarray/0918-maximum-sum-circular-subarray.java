@@ -16,7 +16,7 @@ class Solution {
 
             totalSum += num;
         }
-        if (maxSum < 1) {
+        if (maxSum < 0) {
             return maxSum;
         }
         int circularSum = totalSum - minSum;
