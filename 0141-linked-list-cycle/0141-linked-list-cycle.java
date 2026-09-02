@@ -20,7 +20,7 @@ public class Solution {
 
             fast = fast.next.next;
 
-            if (slow == fast) {
+            if (fast == slow) {
                 return true;
             }
         }
