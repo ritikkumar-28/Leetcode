@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RitikKumar-28/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RitikKumar-28/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/RitikKumar-28/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/RitikKumar-28/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RitikKumar-28/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RitikKumar-28/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RitikKumar-28/Leetcode/tree/master/0056-merge-intervals) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RitikKumar-28/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/RitikKumar-28/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/RitikKumar-28/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RitikKumar-28/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RitikKumar-28/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RitikKumar-28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/RitikKumar-28/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/RitikKumar-28/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/RitikKumar-28/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RitikKumar-28/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RitikKumar-28/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/RitikKumar-28/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RitikKumar-28/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/RitikKumar-28/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/RitikKumar-28/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RitikKumar-28/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RitikKumar-28/Leetcode/tree/master/0344-reverse-string) |
