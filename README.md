@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/RitikKumar-28/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RitikKumar-28/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/RitikKumar-28/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/RitikKumar-28/Leetcode/tree/master/1051-height-checker) |
 | [1314-matrix-block-sum](https://github.com/RitikKumar-28/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RitikKumar-28/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RitikKumar-28/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RitikKumar-28/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/RitikKumar-28/Leetcode/tree/master/0611-valid-triangle-number) |
+| [1051-height-checker](https://github.com/RitikKumar-28/Leetcode/tree/master/1051-height-checker) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/RitikKumar-28/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -266,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RitikKumar-28/Leetcode/tree/master/0020-valid-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/RitikKumar-28/Leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/RitikKumar-28/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
